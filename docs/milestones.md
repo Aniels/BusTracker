@@ -1,8 +1,8 @@
-# 🗺️ Milestone Plan – OpenBusTracker
+# 🗺️ Milestone Plan – BusTracker
 
 > **版本 0.0.1** 最後更新：2025‑04‑19
 
-本文件列出 OpenBusTracker 專案 12 週開發週期的里程碑與任務拆解，供專案管理、進度追蹤與驗收之用。
+本文件列出 BusTracker 專案 12 週開發週期的里程碑與任務拆解，供專案管理、進度追蹤與驗收之用。
 
 ---
 
